@@ -1,0 +1,7 @@
+# git
+
+ - git clone << github repo >>
+ - git status
+ - git commit -m "название коммита"
+ - git push (origin << repo >>)
+ - git pull (origin << repo >>)
